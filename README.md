@@ -26,7 +26,7 @@ Fitur:
  Langkah-langkah  
 1. Clone repositori:  
    ```bash
-   git clone https://github.com/[username]/calculator-flutter.git
+   git clone https://github.com/FreakShitt/calculator-flutter.git
    ```
 2. Masuk ke direktori proyek:  
    ```bash
