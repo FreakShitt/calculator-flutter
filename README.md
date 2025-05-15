@@ -64,11 +64,9 @@ A lightweight, responsive calculator application developed using **Flutter** (Da
 ---
 
 ## **Demo**  
-🎥 **[Watch Demo Video](#)** *(Upload a screen recording using OBS/Snipping Tool and link here)*  
+🎥 **[Watch Demo Video](#)** 
 
-![Calculator Preview](https://via.placeholder.com/300x600?text=Calculator+UI+Preview)  
 
-*(Replace with an actual screenshot or GIF)*  
 
 ---
 
@@ -76,13 +74,8 @@ A lightweight, responsive calculator application developed using **Flutter** (Da
 👨‍💻 **Satrio Parikesit**  
 📧 [satrioparikesit88@gmail.com](mailto:satrioparikesit88@gmail.com)  
 🔗 GitHub: [FreakShitt](https://github.com/FreakShitt)  
-📅 Last Updated: **May 2024**  
+📅 Last Updated: **May 2025**  
 
 ---
 
-### **Notes**  
-- Replace `[Watch Demo Video]` with a YouTube/Google Drive link.  
-- Add a **screenshot/GIF** for better visuals.  
-- For contributions, mention `LICENSE` or `CONTRIBUTING.md` if applicable.  
 
-Let me know if you'd like any modifications! 🚀
