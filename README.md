@@ -1,66 +1,88 @@
-Berikut adalah **README.md** yang sudah disesuaikan untuk proyek **Calculator-Flutter** Anda:  
 
-```markdown
-# Calculator-Flutter �
+---
 
-## Deskripsi Aplikasi  
-Aplikasi kalkulator sederhana yang dibangun menggunakan **Flutter**.  
-Fitur:  
-✔ Operasi dasar (+, -, ×, ÷)  
-✔ Desimal (.)  
-✔ Clear (C)  
-✔ Perhitungan real-time  
+# **Flutter Calculator** 📱➗  
 
-## Software yang Digunakan  
-- **Framework**: Flutter (Dart)  
-- **Tools**: Visual Studio Code (VSCode)  
-- **Emulator/Device**: Android/iOS (bisa juga dijalankan di web)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+*A simple yet powerful calculator built with Flutter for cross-platform use.*  
 
-## Cara Instalasi  
-### Prasyarat  
-- Flutter SDK ([Download & Install](https://flutter.dev/docs/get-started/install))  
-- VS Code (dengan ekstensi Flutter & Dart)  
-- Emulator Android/iOS **atau** perangkat fisik  
+---
 
+## **Project Overview**  
+A lightweight, responsive calculator application developed using **Flutter** (Dart). Designed for smooth performance on Android, iOS, and web with a clean UI.  
 
- Langkah-langkah  
-1. Clone repositori:  
-   ```bash
+### **Features**  
+✔ Basic arithmetic operations (+, -, ×, ÷)  
+✔ Decimal point support  
+✔ Real-time calculation display  
+✔ Clear (C) function  
+✔ Responsive design (mobile & web)  
+
+---
+
+## **Technologies Used**  
+- **Framework**: [Flutter](https://flutter.dev/) (v3.0+)  
+- **Programming Language**: Dart  
+- **IDE**: Visual Studio Code (with Flutter & Dart extensions)  
+- **Dependency Management**: Pub  
+
+---
+
+## **Installation Guide**  
+
+### **Prerequisites**  
+✅ Flutter SDK ([Installation Guide](https://docs.flutter.dev/get-started/install))  
+✅ VS Code (with Flutter extension) or Android Studio  
+✅ Emulator (Android/iOS) or physical device  
+
+### **Steps**  
+1. **Clone the repository**:  
+   ```sh
    git clone https://github.com/FreakShitt/calculator-flutter.git
-   ```
-2. Masuk ke direktori proyek:  
-   ```bash
+   ```  
+2. **Navigate to the project directory**:  
+   ```sh
    cd calculator-flutter
-   ```
-3. Install dependencies:  
-   ```bash
+   ```  
+3. **Install dependencies**:  
+   ```sh
    flutter pub get
-   ```
-4. Jalankan di emulator/perangkat:  
-   ```bash
+   ```  
+4. **Run the app**:  
+   ```sh
    flutter run
-   ```
+   ```  
 
-## Cara Menjalankan  
-- Jika menggunakan **VS Code**, buka folder proyek dan tekan **F5** (debug).  
-- Jika lewat terminal, pastikan emulator aktif dan jalankan:  
-  ```bash
-  flutter run
-  ```
+*(For web support, use `flutter run -d chrome`)*  
 
-## Demo Aplikasi  
-[![Demo Calculator](https://img.youtube.com/vi/[VIDEO_ID]/0.jpg)](https://youtu.be/[VIDEO_ID])  
-*(Rekam dengan Snipping Tool lalu upload ke YouTube atau platform lain)*  
+---
 
-## Identitas Pembuat  
-**Nama**: Satrio Parikesit  
-**Email**: [jika ingin dicantumkan]  
-**Tanggal**: [DD-MM-YYYY]  
-```  
+## **How to Run**  
+- **VS Code**: Open the project, select a device, and press `F5` (Debug).  
+- **Terminal**: Ensure an emulator is running and execute `flutter run`.  
 
-### Catatan:  
-- Ganti `[username]` dengan GitHub username Anda.  
-- Jika sudah ada video demo, ganti `[VIDEO_ID]` dengan ID YouTube.  
-- Tambahkan email/tanggal jika diperlukan.  
+---
 
-Semoga membantu!
+## **Demo**  
+🎥 **[Watch Demo Video](#)** *(Upload a screen recording using OBS/Snipping Tool and link here)*  
+
+![Calculator Preview](https://via.placeholder.com/300x600?text=Calculator+UI+Preview)  
+
+*(Replace with an actual screenshot or GIF)*  
+
+---
+
+## **Developer**  
+👨‍💻 **Satrio Parikesit**  
+📧 [satrioparikesit88@gmail.com](mailto:satrioparikesit88@gmail.com)  
+🔗 GitHub: [FreakShitt](https://github.com/FreakShitt)  
+📅 Last Updated: **May 2024**  
+
+---
+
+### **Notes**  
+- Replace `[Watch Demo Video]` with a YouTube/Google Drive link.  
+- Add a **screenshot/GIF** for better visuals.  
+- For contributions, mention `LICENSE` or `CONTRIBUTING.md` if applicable.  
+
+Let me know if you'd like any modifications! 🚀
